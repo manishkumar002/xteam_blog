@@ -1,0 +1,18 @@
+.a{
+    background-color: #302b63;
+   
+}
+
+.b{
+    background-color: #636691;
+    height: 400px;
+    box-shadow:10px 10px 15px 2px;
+    border-radius: 18px;
+   
+    
+}
+h2{
+    text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+}
+
